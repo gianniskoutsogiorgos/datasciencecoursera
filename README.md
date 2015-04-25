@@ -1,2 +1,2 @@
 # datasciencecoursera
-This is a test repo for the Data Science
+This is a test repo for the Data Scientist's Toolbox course project
